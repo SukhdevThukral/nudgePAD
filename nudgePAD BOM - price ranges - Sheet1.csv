@@ -1,0 +1,28 @@
+nudgePAD BOM,,,,
+Item,Qty,Price (including shipping charges),,Source
+BOARD PARTS,,,,
+Seeed XIAO RP2040,1, ₹600-650 ,,https://thinkrobotics.com/products/seeed-studio-xiao-rp2040
+Cherry MX 5-pin switches (pack of 10),1, ₹530-560,,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/
+Blank DSA 1U keycaps (pack of 10),1, ₹250-300,,https://keyora.store/products/dsa-blank-keycaps-1u-1u-homing-1-5u-pack-of-10
+"EC11 rotary encoder, 20mm D-shaft, push",1, ₹175-249,,https://www.amazon.in/Electronicspices-rotary-encoder-digital-potentiometer/dp/B08L56ZHFW/ref=sr_1_7?crid=3632UBXP2JVHY&dib=eyJ2IjoiMSJ9.r3Ty2Gi8VMjBJ-3exF_H2C6YJqxtDyPK6JyWCHIN1PRgOXJZVXh1eC5WCJ7HBazsWOJAWt4C9kOFLDtS6YbpiAVfYW7ob2s7w8Fomi-Qd33l_0UJNu0i-fcnGMfAUV35aHXtlAF6TPJJlLUM9XfUauPU8j7G9eSdj2bGBxcLs00W-ZtygkIHZMSGVf16sC_4riFtGvUXGAXBO_Bf1Q4hHO30h8kCtuw_lDajWNJTmXBxjDMGd6L1pWS44OUSFSow6XFe0XGgD4fveKLedWj3tyMXz0mn0ClOZCoeZ1QqNJY._Fwx66VVB02rUmzk56rdYI18mzWPhPMdhqBFlbSrIck&dib_tag=se&keywords=EC11+Rotary+Encoder+Half+Shaft+Handle+Potentiometer&qid=1794939423&sprefix=ec11+rotary+encoder+half+shaft+handle+potentiometer%2Caps%2C346&sr=8-7
+"Encoder knob, 6mm D-shaft bore",1, ₹149-200,,https://3dprintshop.in/product/rotary-encoder-knob-set
+SSD1306 0.91 inch OLED 128x32 I2C,1,₹261,,https://www.amazon.in/-/hi/Electrobot-SSD1306-%E0%A4%A1%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%87-%E0%A4%AE%E0%A5%89%E0%A4%A1%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%B2-%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8/dp/B099X21CM5
+SK6812MINI-E addressable RGB LED,10,₹209,,https://nanohertztechnologies.com/products/addressable-smd-led-sk6812mini-e-6812-ws2812-opsco
+330 ohm 0805 resistor (pack of 20),1,₹158,,https://quartzcomponents.com/products/330-ohm-330-e-5-smd-resistor-0805-pack-of-20-pieces
+"Custom PCB, 69.5 x 64 mm, 2-layer, 1.6 mm",5,₹2500,,https://www.lioncircuits.com/quote?layers=2&units=5&dimensionX=69.5&dimensionY=64
+SUBTOTAL,,"₹4,832–₹5,087",,
+,,(including delivery charges),,
+,,,,
+TOOLS,,,,
+Soldering iron,1,₹240,,https://www.amazon.in/Electronic-Spices-Black-Color-Soldering/dp/B0BNX3WZWJ
+Soldering iron stand,1,₹149,,https://www.amazon.in/Electric-Soldering-Circuit-Maintaining-Repairing/dp/B09X1LYS2J/ref=pd_lpo_d_sccl_2/260-7652607-8708016?pd_rd_w=9LOin&content-id=amzn1.sym.e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_p=e0c8139c-1aa1-443c-af8a-145a0481f27c&pf_rd_r=X139MKWCEEH7C0NEJ67K&pd_rd_wg=t5OJ4&pd_rd_r=162d80ca-8ef9-4ab9-959e-86d5cf17fd45&pd_rd_i=B09X1LYS2J&psc=1
+"Solder wire 60/40, 50 g",1,₹140,,https://www.amazon.in/Solder-Tin-Lead-Roll-Solder-Wire/dp/B0H3NYJNNK?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3C7Z4RVM9A3G1
+"Desoldering wick, 1.5 m",1,₹199,,https://www.amazon.in/UPTO-DATE-PRODUCTS-Desoldering-1-5mm-1-5Meter/dp/B0H62CXC13
+"Soldering flux paste, 15 g",1,₹105,,https://www.amazon.in/Soldering-Electronics-practice-Salvaging-components/dp/B0HK8HYQCV
+SUBTOTAL,,₹850-900,,
+,,(including delivery charges),,
+,,,,
+ABSOLUTE TOTAL,,"₹5,682–₹5,987",or $60-65,
+,,(including delivery charges),,
+,,,,
+CAD COST ,,₹381 or ~$4-5,,
