@@ -5,10 +5,8 @@ learnt a lot of PCB making and :( took me A LOT of time to wrap my head around e
 <img width="1934" height="1144" alt="image" src="https://github.com/user-attachments/assets/8afa4b68-14a5-4577-8983-bc3a724b90cf" />
 
 # Inspiration
-I've always wanted to build such hardware, and Hackpad gave me the perfect opportunity to start hardware creation
+NOW HACKPAD is said to be the starting point of creating our OWN PCBs but i gave myself challenge later on in the journey to actually learn side by side rather than following the guide which i still love btw but was lwk vague (no offense <3)
 
-# Challenges
-This was the first time I used the XIAO library and Fusion 360. Although I did run into some issues, the tutorial helped me a lot as a beginner
 
 # Specifications
 
